@@ -41,7 +41,7 @@ Once the application is running, you can explore the various screens of the appl
 
 ### Cart Screen:
 - The cart screen displays a list of products that have been added to the cart. Users can increase or decrease the quantity of products in the cart or remove them from the cart.
- - Users can pay with thier bank card .
+ - Users can pay with thier banking card .
      
 ### Settings Screen:
 - The settings screen allows users to update their personal information and log out of the application.
@@ -63,5 +63,26 @@ Once the application is running, you can explore the various screens of the appl
 
 ## Restful API
 
--The Shop App uses Restful API calls to communicate with the backend server. The application utilizes the **Dio package** for making HTTP requests to the server. The API endpoints are defined in the endpoints.dart file. The application makes use of asynchronous programming techniques to handle the response from the server. 
+- The Shop App uses Restful API calls to communicate with the backend server. The application utilizes the **Dio package** for making HTTP requests to the server. The API endpoints are defined in the endpoints.dart file. The application makes use of asynchronous programming techniques to handle the response from the server.
+
+
+## ScreenShots 
+- **onboarding**
+![Untitled](https://user-images.githubusercontent.com/96302371/221864141-09d05e1b-eaf9-4ddb-875d-cf351df0e57a.png)
+
+
+- **Login && Register**
+![Untitled (3)](https://user-images.githubusercontent.com/96302371/221863656-8e97420c-5593-40d5-97be-169bff5697c4.png)
+
+
+- **Main**
+![Untitled (2)](https://user-images.githubusercontent.com/96302371/221864479-a7fa6f7f-94f6-4e43-9ad5-166e5ee7b36f.png)
+
+
+- **Payment && Search**
+![Untitled (3)](https://user-images.githubusercontent.com/96302371/221864824-9d2994df-8edb-4277-875c-53f19645d46d.png)
+
+
+
+
           
