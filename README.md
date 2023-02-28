@@ -67,19 +67,20 @@ Once the application is running, you can explore the various screens of the appl
 
 
 ## ScreenShots 
-- **onboarding**
+### onboarding
 ![Untitled](https://user-images.githubusercontent.com/96302371/221864141-09d05e1b-eaf9-4ddb-875d-cf351df0e57a.png)
 
 
-- **Login && Register**
-![Untitled (3)](https://user-images.githubusercontent.com/96302371/221863656-8e97420c-5593-40d5-97be-169bff5697c4.png)
+### Login && Register
+![Untitled (1)](https://user-images.githubusercontent.com/96302371/221865520-3afb8851-e4f6-4b20-8c8e-da01d49a1436.png)
 
 
-- **Main**
+
+### Main
 ![Untitled (2)](https://user-images.githubusercontent.com/96302371/221864479-a7fa6f7f-94f6-4e43-9ad5-166e5ee7b36f.png)
 
 
-- **Payment && Search**
+### Payment && Search
 ![Untitled (3)](https://user-images.githubusercontent.com/96302371/221864824-9d2994df-8edb-4277-875c-53f19645d46d.png)
 
 
