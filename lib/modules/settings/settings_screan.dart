@@ -105,6 +105,7 @@ class SettingScrean extends StatelessWidget {
               InkWell (
                 onTap: (){
                   signOut(context) ; 
+                  cost = 0 ;
                 },
                 
                 child: Container(
