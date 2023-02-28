@@ -20,9 +20,11 @@ The following documentation explains how to setup and use the application.
 1. Clone or download the repository .
 2. Install Dependencies:
     - Open the project in your preferred IDE and run the following command in the terminal:
+    
         ```
         flutter pub get
         ```
+        
 3. Connect a physical device or launch an emulator .
 4. Run the app .
 5. Explore the application:
