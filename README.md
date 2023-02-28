@@ -66,7 +66,12 @@ Once the application is running, you can explore the various screens of the appl
 - The Shop App uses Restful API calls to communicate with the backend server. The application utilizes the **Dio package** for making HTTP requests to the server. The API endpoints are defined in the endpoints.dart file. The application makes use of asynchronous programming techniques to handle the response from the server.
 
 
+## Live video 
+[Live Video](https://drive.google.com/file/d/1S7PNlgy9DreP2angAvXimVL0ym8dqCYR/view?usp=sharing)
+
+
 ## ScreenShots 
+
 ### onboarding
 ![Untitled](https://user-images.githubusercontent.com/96302371/221864141-09d05e1b-eaf9-4ddb-875d-cf351df0e57a.png)
 
